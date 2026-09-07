@@ -59,7 +59,7 @@ Russian — Native
 
 📫 How to reach me: 
 +380665006178 (Mobile)
-stanislav.bondarenko631@gmail.com
-linkedin.com/in/stanislav-bondarenko-frontend
+[Email] (mailto: stanislav.bondarenko631@gmail.com)
+[LinkedIn] (linkedin.com/in/stanislav-bondarenko-frontend)
 
 
