@@ -32,7 +32,7 @@ Key Achievements & Responsibilities:
 
 - Clean Code Architecture: Structured the codebase entirely by myself, ensuring semantic HTML tags and scalable CSS architecture
 
-[The Sweet Workshop - Team project] (https://github.com/taisiiiaaa/the-sweet-workshop)
+[The Sweet Workshop - Team project] (https://taisiiiaaa.github.io/the-sweet-workshop/)
 
 Responsive website for a confectionery workshop developed as a team project during the GoIT Fullstack course.
 
@@ -42,7 +42,7 @@ Responsive website for a confectionery workshop developed as a team project duri
 - Managed project tasks in GitHub Projects and communicated through Slack.
 - Presented the project during the final team presentation.
 
-[Handmade Jewelry — Team project] (https://github.com/taisiiiaaa/handmade-jewelry)
+[Handmade Jewelry — Team project] (https://taisiiiaaa.github.io/handmade-jewelry/)
 
 Responsive landing page for a handmade jewelry brand developed as a team project during the GoIT Fullstack course.
 
