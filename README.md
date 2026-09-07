@@ -18,7 +18,7 @@ Git, GitHub, Vite, Axios, Figma, VS Code, Vite
 Development:
 DOM Manipulation, Asynchronous JavaScript, REST API Integration, Local Storage, BEM methodology, SASS / SCSS, Node.js, Mobile First, Agile / Scrum
 
-💻Featured Projects
+💻Featured Projects:
 [Web Studio — Business Landing Page] (https://github.com/StanislavBondarenko631/goit-markup-hw-06)
 Developed a modern, multi-page landing page for a digital agency as my first milestone project during the GoIT frontend course. The goal was to build a clean, pixel-perfect, and highly optimized website from scratch based on a Figma layout.
 
