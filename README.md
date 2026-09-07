@@ -1,7 +1,4 @@
 ## 👋 Hi, I'm Stanislav Bondarenko
-<!--
-**StanislavBondarenko631/StanislavBondarenko631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Junior Frontend Developer | JavaScript | TypeScript | React | HTML5 & CSS3
 Frontend Developer with practical experience building responsive web interfaces using HTML, CSS, JavaScript, TypeScript, and React. Completed individual and team-based projects during the GoIT Full Stack course using modern development tools such as Git, GitHub (Pull Requests), Vite, Axios, Figma, and VS Code.
 
@@ -65,4 +62,4 @@ Russian — Native
 stanislav.bondarenko631@gmail.com
 linkedin.com/in/stanislav-bondarenko-frontend
 
--->
+
