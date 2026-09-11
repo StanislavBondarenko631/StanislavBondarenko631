@@ -57,7 +57,7 @@ Responsive landing page for a handmade jewelry brand developed as a team project
 
   ![GitHub Snake Animation](https://github.com/StanislavBondarenko631/StanislavBondarenko631/blob/output/github-snake.svg)
 
-🗣️ Languages:
+# 🗣️ Languages:
 
 English — Pre-Intermediate;
 Ukrainian — Native;
