@@ -2,7 +2,7 @@
   <img src="./Black and White Minimalist Professional LinkedIn Banner 2.png" alt="My Profile Banner" width="100%">
 </p>
 
-## 👋 Hi, I'm Stanislav Bondarenko
+# 👋 Hi, I'm Stanislav Bondarenko
 Junior Frontend Developer | JavaScript | TypeScript | React | HTML5 & CSS3
 Frontend Developer with practical experience building responsive web interfaces using HTML, CSS, JavaScript, TypeScript, and React. Completed individual and team-based projects during the GoIT Full Stack course using modern development tools such as Git, GitHub (Pull Requests), Vite, Axios, Figma, and VS Code.
 
