@@ -19,7 +19,7 @@ I am a fast learner, detail-oriented, and ready to bring value as a Frontend Dev
 ### 🛠️ Tools & Infrastructure:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-8B0000?style=for-the-badge&logo=githubpages&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Development:
+### 🧠 Methodologies & Skills:
 
 DOM Manipulation, Asynchronous JavaScript, REST API Integration, Local Storage, BEM methodology, SASS / SCSS, Node.js, Mobile First, Agile / Scrum
 
