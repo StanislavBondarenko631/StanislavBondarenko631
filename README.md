@@ -14,7 +14,7 @@ I am a fast learner, detail-oriented, and ready to bring value as a Frontend Dev
 
 # 🧰 Tech Stack  
 
-HTML, CSS, JavaScript, ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white), React
+HTML, CSS, JavaScript, |![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) | React
 
 Tools:
 Git, GitHub, Vite, Axios, Figma, VS Code, Vite
