@@ -53,7 +53,7 @@ Responsive landing page for a handmade jewelry brand developed as a team project
 - Developed the Hero section based on the Figma design.
 - Prepared and optimized all project image assets and the SVG sprite for the entire application.
 - Worked in a collaborative team environment using Git/GitHub for version control, Trello for task management, and Slack for team communication.
-- Presented the project during the final team presentation
+- Presented the project during the final team presentation.
 
 🗣️ Languages:
 
