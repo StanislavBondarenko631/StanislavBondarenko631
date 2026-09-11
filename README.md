@@ -55,6 +55,8 @@ Responsive landing page for a handmade jewelry brand developed as a team project
 - Worked in a collaborative team environment using Git/GitHub for version control, Trello for task management, and Slack for team communication.
 - Presented the project during the final team presentation.
 
+  ![GitHub Snake Animation](https://github.com/StanislavBondarenko631/StanislavBondarenko631/blob/output/github-snake-dark.svg)
+
 🗣️ Languages:
 
 English — Pre-Intermediate;
