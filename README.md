@@ -12,7 +12,7 @@ Having served as a Scrum Master, I discovered a real passion for team coordinati
 
 I am a fast learner, detail-oriented, and ready to bring value as a Frontend Developer Trainee.
 
-🧰 Tech Stack  
+# 🧰 Tech Stack  
 
 HTML, CSS, JavaScript, TypeScript, React
 
