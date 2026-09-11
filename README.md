@@ -26,11 +26,11 @@ I am a fast learner, detail-oriented, and ready to bring value as a Frontend Dev
 
 DOM Manipulation, Asynchronous JavaScript, REST API Integration, Local Storage, BEM methodology, SASS / SCSS, Node.js, Mobile First, Agile / Scrum
 
-💻Featured Projects:
-[Web Studio — Business Landing Page] (https://github.com/StanislavBondarenko631/goit-markup-hw-06)
+#💻Featured Projects:
+[Web Studio — Business Landing Page](https://github.com/StanislavBondarenko631/goit-markup-hw-06)
 Developed a modern, multi-page landing page for a digital agency as my first milestone project during the GoIT frontend course. The goal was to build a clean, pixel-perfect, and highly optimized website from scratch based on a Figma layout.
 
-Key Achievements & Responsibilities:
+###Key Achievements & Responsibilities:
 
 - Mobile-First Responsive Layout: Implemented a fully responsive design adapting seamlessly across Mobile (320px+), Tablet (768px+), and Desktop (1158px+) breakpoints.
 
@@ -40,7 +40,7 @@ Key Achievements & Responsibilities:
 
 - Clean Code Architecture: Structured the codebase entirely by myself, ensuring semantic HTML tags and scalable CSS architecture
 
-[The Sweet Workshop - Team project] (https://taisiiiaaa.github.io/the-sweet-workshop/)
+[The Sweet Workshop - Team project](https://taisiiiaaa.github.io/the-sweet-workshop/)
 
 Responsive website for a confectionery workshop developed as a team project during the GoIT Fullstack course.
 
@@ -50,7 +50,7 @@ Responsive website for a confectionery workshop developed as a team project duri
 - Managed project tasks in GitHub Projects and communicated through Slack.
 - Presented the project during the final team presentation.
 
-[Handmade Jewelry — Team project] (https://taisiiiaaa.github.io/handmade-jewelry/)
+[Handmade Jewelry — Team project](https://taisiiiaaa.github.io/handmade-jewelry/)
 
 Responsive landing page for a handmade jewelry brand developed as a team project during the GoIT Fullstack course.
 
