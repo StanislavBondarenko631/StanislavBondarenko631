@@ -64,9 +64,9 @@ Ukrainian — Native;
 Russian — Native;
 
 # 📫 How to reach me: 
-📱(tel:+380665006178) |
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stanislav_b_a) |
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stanislav-bondarenko-frontend) |
+📱(tel:+380665006178) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stanislav_b_a) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stanislav-bondarenko-frontend) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanislav.bondarenko631@gmail.com)
 
 
