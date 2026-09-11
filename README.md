@@ -62,8 +62,10 @@ Ukrainian — Native;
 Russian — Native;
 
 📫 How to reach me: 
-+380665006178 (Mobile) |
-[Email](mailto:stanislav.bondarenko631@gmail.com) |
-[LinkedIn](https://linkedin.com/in/stanislav-bondarenko-frontend)
+[![Telegram](https://shields.io)](https://t.me/@stanislav_b_a) |
+[![Phone](https://shields.io)](tel:+380665006178) |
+[![LinkedIn](https://shields.io)]([https://linkedin.com](https://linkedin.com/in/stanislav-bondarenko-frontend)) |
+[![Gmail](https://shields.io)](mailto:stanislav.bondarenko631@gmail.com)
+
 
 
