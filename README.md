@@ -64,7 +64,7 @@ Russian — Native;
 📫 How to reach me: 
 [![Telegram](https://shields.io)](https://t.me/@stanislav_b_a) |
 [![Phone](https://shields.io)](tel:+380665006178) |
-[![LinkedIn](https://shields.io)]([https://linkedin.com](https://linkedin.com/in/stanislav-bondarenko-frontend)) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://linkedin.com/in/stanislav-bondarenko-frontend)) |
 [![Gmail](https://shields.io)](mailto:stanislav.bondarenko631@gmail.com)
 
 
